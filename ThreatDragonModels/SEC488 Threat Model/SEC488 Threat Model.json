@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "SEC488 Threat Model",
+    "owner": "Me",
+    "description": "Flask application to view files in browser"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "Also me"
+  }
+}
